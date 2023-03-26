@@ -4,19 +4,19 @@
 
 >>.Create 4 buttons named ButtonA, ButtonB, ButtonC, ButtonD. Whenever you click on a button it should save the button name and the time when you clicked on button. Create a table and show the info.
 
->>.Button Name   >>.When I clicked
+#.Button Name   #.When I clicked
 
-Button A             10:19:30'
+Button A            10:19:30'
 
-Button B             10:19:34'
+Button B            10:19:34'
 
-Button C             10:20:39'
+Button C            10:20:39'
 
-Button B             10:21:39'
+Button B            10:21:39'
 
-Button A            10:22:32'
+Button A           10:22:32'
 
-Button C            10:22:44'
+Button C           10:22:44'
 
 
 
